@@ -1,6 +1,6 @@
 package org.example;
 
-public class Miclase {
+public class MiClase {
     public boolean dia_laboral(String dia) {
         switch(dia) {
             case "Lunes":
